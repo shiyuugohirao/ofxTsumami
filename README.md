@@ -5,4 +5,5 @@ ofxTsumami is so simple volume knob class for openFrameworks
 - drag vertical / horizontal
 - controll with event
 - scrollY
-
+- RightClick to reset to initialValue
+- DoubleClick to set value
